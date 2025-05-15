@@ -15,13 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stb_image.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="OpenGL_Lab4_T.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="OpenGL_Lab4_P.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\Telegram Desktop\OpenGL_Lab4_R.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenGL_Lab5_Light.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

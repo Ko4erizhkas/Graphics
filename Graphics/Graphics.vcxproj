@@ -127,9 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\Downloads\Telegram Desktop\OpenGL_Lab4_R.c" />
     <ClCompile Include="OpenGL_Lab4_P.c" />
     <ClCompile Include="OpenGL_Lab4_T.c" />
-    <ClCompile Include="stb_image.cpp" />
+    <ClCompile Include="OpenGL_Lab5_Light.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stb_image.h" />
